@@ -1,0 +1,19 @@
+html {
+    background-color: #f1f1f1;
+    font-size: 10px;
+    padding: 20px;
+    margin: 10px;
+    border: 20px solid #03a9f417;
+    
+}
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 20 0;
+    color: #009f8da0;
+    text-shadow: 3px 3px 1px black;
+
+  }
+span{
+    color: rgb(255, 0, 0);
+}
