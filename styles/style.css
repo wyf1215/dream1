@@ -17,3 +17,9 @@ h1 {
 span{
     color: rgb(255, 0, 0);
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
